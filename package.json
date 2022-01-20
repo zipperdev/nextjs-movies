@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-intro",
+  "name": "nextjs-movies",
   "private": true,
   "scripts": {
     "dev": "next dev",
